@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@500&family=Lato:wght@300&family=Montserrat:wght@300&family=Sacramento&display=swap');
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'EB Garamond', serif, sans-serif;
+}
+
+h1   {
+    margin: 0 auto;
+    font-family: Sacramento;
+}
+
+h2   {
+        font-family: Montserrat;
+}
+
+
+h3   {
+    font-family: Garamond;
+}
+
+
+
+
+.top-container {
+  background-color: #d1f8ff;
+  position: relative;
+  padding-top: 100px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.middle-container {
+    background-color: #c2d7f4;
+  }
+
+  
+.bottom-container {
+    background-color: #0783b6;  
+  }
+  
