@@ -84,7 +84,7 @@ hr {
     top: 50px;
 }
 
-.profile-container {
+.profile {
     padding-top: 50px;
 }
     
@@ -103,10 +103,26 @@ hr {
 li {
     list-style: none;
     color: #0783b6;
+  
 }
 
+ul {
+    display: table;
+    margin: 0 auto;
+}
 
+.skills { text-align: center; }
+ul { display: inline-block; text-align: left; }
+
+
+table  {margin-left: auto;
+margin-right: auto;}
   
+td {
+    color: #0783b6;
+    text-align: left;
+}
+
   .contact-me {
       width: 40%;
       margin: 40px auto 60px;
